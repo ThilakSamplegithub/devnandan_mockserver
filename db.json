@@ -4,32 +4,32 @@
       "image": "https://example.com/product1.jpg",
       "name": "Men's Formal Shirt",
       "description": "A classic formal shirt for men, perfect for any occasion.",
-      "gender": "Male",
-      "category": "Shirts",
+      "gender": "male",
+      "category": "shirts",
       "price": 29.99
   },
   {
       "image": "https://example.com/product2.jpg",
-      "name": "Women's Silk Saree",
+      "name": "Women's Silk saree",
       "description": "An elegant silk saree for women with intricate designs.",
-      "gender": "Female",
-      "category": "Saree",
+      "gender": "female",
+      "category": "saree",
       "price": 49.99
   },
   {
       "image": "https://example.com/product3.jpg",
-      "name": "Men's Slim Fit Jeans",
+      "name": "Men's Slim Fit jeans",
       "description": "Stylish and comfortable jeans for men.",
-      "gender": "Male",
-      "category": "Jeans",
+      "gender": "male",
+      "category": "jeans",
       "price": 39.99
   },
   {
       "image": "https://example.com/product4.jpg",
-      "name": "Women's Kurti Top",
+      "name": "Women's kurti Top",
       "description": "A trendy kurti top for women, suitable for casual wear.",
-      "gender": "Female",
-      "category": "Kurti",
+      "gender": "female",
+      "category": "kurti",
       "price": 24.99
   }
 ]
