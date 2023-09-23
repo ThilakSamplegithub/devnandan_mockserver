@@ -1,4 +1,5 @@
-[
+{
+  "data":[
   {
       "ProductImageURL": "https://example.com/product1.jpg",
       "ProductName": "Men's Formal Shirt",
@@ -32,3 +33,4 @@
       "Price": 24.99
   }
 ]
+}
