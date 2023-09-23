@@ -1,36 +1,36 @@
 {
   "data":[
   {
-      "ProductImageURL": "https://example.com/product1.jpg",
-      "ProductName": "Men's Formal Shirt",
-      "ProductDescription": "A classic formal shirt for men, perfect for any occasion.",
-      "Gender": "Male",
-      "Category": "Shirts",
-      "Price": 29.99
+      "image": "https://example.com/product1.jpg",
+      "name": "Men's Formal Shirt",
+      "description": "A classic formal shirt for men, perfect for any occasion.",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 29.99
   },
   {
-      "ProductImageURL": "https://example.com/product2.jpg",
-      "ProductName": "Women's Silk Saree",
-      "ProductDescription": "An elegant silk saree for women with intricate designs.",
-      "Gender": "Female",
-      "Category": "Saree",
-      "Price": 49.99
+      "image": "https://example.com/product2.jpg",
+      "name": "Women's Silk Saree",
+      "description": "An elegant silk saree for women with intricate designs.",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 49.99
   },
   {
-      "ProductImageURL": "https://example.com/product3.jpg",
-      "ProductName": "Men's Slim Fit Jeans",
-      "ProductDescription": "Stylish and comfortable jeans for men.",
-      "Gender": "Male",
-      "Category": "Jeans",
-      "Price": 39.99
+      "image": "https://example.com/product3.jpg",
+      "name": "Men's Slim Fit Jeans",
+      "description": "Stylish and comfortable jeans for men.",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 39.99
   },
   {
-      "ProductImageURL": "https://example.com/product4.jpg",
-      "ProductName": "Women's Kurti Top",
-      "ProductDescription": "A trendy kurti top for women, suitable for casual wear.",
-      "Gender": "Female",
-      "Category": "Kurti",
-      "Price": 24.99
+      "image": "https://example.com/product4.jpg",
+      "name": "Women's Kurti Top",
+      "description": "A trendy kurti top for women, suitable for casual wear.",
+      "gender": "Female",
+      "category": "Kurti",
+      "price": 24.99
   }
 ]
 }
