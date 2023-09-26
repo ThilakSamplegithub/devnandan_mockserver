@@ -1,6 +1,7 @@
 {
   "data":[
-  {
+  {    
+      "id":1,
       "image": "https://example.com/product1.jpg",
       "name": "Men's Formal Shirt",
       "description": "A classic formal shirt for men, perfect for any occasion.",
@@ -9,6 +10,7 @@
       "price": 29.99
   },
   {
+      "id":2,
       "image": "https://example.com/product2.jpg",
       "name": "Women's Silk saree",
       "description": "An elegant silk saree for women with intricate designs.",
@@ -17,6 +19,7 @@
       "price": 49.99
   },
   {
+    "id":3,
       "image": "https://example.com/product3.jpg",
       "name": "Men's Slim Fit jeans",
       "description": "Stylish and comfortable jeans for men.",
@@ -25,6 +28,7 @@
       "price": 39.99
   },
   {
+    "id":4,
       "image": "https://example.com/product4.jpg",
       "name": "Women's kurti Top",
       "description": "A trendy kurti top for women, suitable for casual wear.",
